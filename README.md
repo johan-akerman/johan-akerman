@@ -31,6 +31,7 @@ I am Johan, a computer science student with an interest in design and tech who l
 
 <details><summary><b>2019</b></summary>
   
+- [Volta Greentech (first version)](https://github.com/johan-akerman/OldVoltaGreentech)
 - [Young Engineers](https://github.com/johan-akerman/UngaIngenjorer)
 - [Wumble](https://github.com/johan-akerman/Wumble)
 </details>
