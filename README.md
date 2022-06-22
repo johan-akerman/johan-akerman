@@ -11,12 +11,12 @@ I am Johan, a computer science student with an interest in design and tech who l
   
 - [LOME Foods](https://github.com/johan-akerman/LOME)
 - [Spotify Topics](https://github.com/johan-akerman/SpotifyTranscripts)
-- [Greet](https://github.com/johan-akerman/Greet)
 
 </details>
 
 <details><summary><b>2021</b></summary>
   
+- [Greet](https://github.com/johan-akerman/Greet)
 - [Homerun](https://github.com/johan-akerman/Homerun)
   
 </details>
