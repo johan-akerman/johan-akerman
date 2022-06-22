@@ -10,7 +10,7 @@ I am Johan, a computer science student with an interest in design and tech who l
 <details><summary><b>2022</b></summary>
   
 - [LOME Foods](https://github.com/johan-akerman/LOME)
-- [Spotify Topics](https://github.com/johan-akerman/SpotifyTranscripts)
+- [Spotify Transcripts](https://github.com/johan-akerman/SpotifyTranscripts)
 
 </details>
 
