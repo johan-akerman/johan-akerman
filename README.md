@@ -5,7 +5,7 @@ I am Johan, a computer science student with an interest in design and tech who l
 - ✉️ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/johan-akerman/) if you have any questions or ideas that you would like to discuss! 
 
 
-### More old projects (with varying quality)
+### Previous projects
 
 <details><summary><b>2022</b></summary>
   
