@@ -31,6 +31,6 @@ I am Johan, a computer science student with an interest in design and tech who l
 
 <details><summary><b>2019</b></summary>
   
-- [Unga Ingenjörer](https://github.com/johan-akerman/UngaIngenjorer)
+- [Young Engineers](https://github.com/johan-akerman/UngaIngenjorer)
 - [Wumble](https://github.com/johan-akerman/Wumble)
 </details>
