@@ -1,5 +1,5 @@
 ### Hello! 
-I am Johan, a computer science student with an interest in design and tech who likes to build stuff.
+I am Johan, a computer science student who likes to build stuff.
 - 🎙️ Currently building [Spotify Transcripts](https://github.com/johan-akerman/SpotifyTranscripts), a tool that uses speech recognition to generate subtitles for podcasts.
 - 👋 My favourite "completed" project is [Greet](https://github.com/johan-akerman/Greet), a marketplace where you get paid to refer friends to tech jobs. 
 
