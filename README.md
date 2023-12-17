@@ -5,7 +5,7 @@ I am Johan, a computer science student who likes to build stuff.
 
 <details><summary><b>2023</b></summary>
   
-- [GPT Of The Day](https://gptoftheday.com/)
+- [GPT Of The Day](https://github.com/johan-akerman/GPTOfTheDay)
 - [Spotify Transcripts](https://github.com/johan-akerman/SpotifyTranscripts)
 - [Dormrun](https://github.com/johan-akerman/Dormrun)
 - [BatmanGO](https://github.com/johan-akerman/BatmanGO)
