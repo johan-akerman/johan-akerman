@@ -3,12 +3,17 @@ I am Johan, a computer science student who likes to build stuff.
 
 ### Previous projects
 
+<details><summary><b>2024</b></summary>
+  
+- [Nolanz](https://nolanz.ai/)
+
+</details>
+
 <details><summary><b>2023</b></summary>
   
 - [GPT Of The Day](https://github.com/johan-akerman/GPTOfTheDay)
 - [Spotify Transcripts](https://github.com/johan-akerman/SpotifyTranscripts)
 - [Dormrun](https://github.com/johan-akerman/Dormrun)
-- [BatmanGO](https://github.com/johan-akerman/BatmanGO)
 
 </details>
 
@@ -30,8 +35,7 @@ I am Johan, a computer science student who likes to build stuff.
   
 - [Volta Greentech](https://github.com/johan-akerman/VoltaGreentech)
 - [Spotify Topics](https://github.com/johan-akerman/SpotifyTopics)
-- [Voi Hunter](https://github.com/johan-akerman/VoiHunter)  
-- [Curb Food](https://github.com/johan-akerman/CurbFood)
+  
 </details>
 
 <details><summary><b>2019</b></summary>
