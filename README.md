@@ -1,10 +1,12 @@
 ### Hello! 
-I am Johan, a computer science student who likes to build stuff.
+I am Johan and I like to build stuff.
 
 ### Previous projects
 
 <details><summary><b>2024</b></summary>
   
+- [Gaff](https://apps.apple.com/us/app/gaff-talk-with-friends-daily/id1644599803)
+- [Failure detection algorithms for distributed systems](https://lup.lub.lu.se/student-papers/search/publication/9153924)
 - [Nolanz](https://nolanz.ai/)
 
 </details>
